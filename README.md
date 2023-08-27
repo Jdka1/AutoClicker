@@ -7,7 +7,7 @@ This Python script is a simple autoclicker that mimics mouse clicks. It tracks y
 1. Clone this repository ```git clone https://github.com/Jdka1/AutoClicker.git```
 2. Install dependencies with ```pip install -r requirements.txt```
 3. Adjust the interval in the `main.py` file.
-4. Run the script: `sudo python main.py`.
+4. Run the script: `python main.py`.
 5. Close the clicker by pressing and holding **q**.
 
 ### Note
