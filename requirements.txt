@@ -1,0 +1,4 @@
+pyautogui
+threading
+keyboard
+time
