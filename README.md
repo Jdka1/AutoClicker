@@ -1,4 +1,4 @@
-Python AutoClicker 🖱️
+# Python AutoClicker 🖱️
 
 ### Description
 This Python script is a simple autoclicker that mimics mouse clicks. It tracks your mouse cursor and clicks at a customizable interval.
